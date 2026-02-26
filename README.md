@@ -41,7 +41,7 @@ Este a sido el proyecto donde más he trabajado la parte visual.
 
 Al hacerlo desde cero, he tenido  que pensar cómo organizar los servicios para que quedaran equilibrados y cómo adaptar las imágenes para que no se descuadrara el diseño.
 
-También me a servido para entender mejor cómo construir una página completa partiendo de una idea simple y darle forma poco a poco.
+También me ha servido para entender mejor cómo construir una página completa partiendo de una idea simple y darle forma poco a poco.
 
 Aunque es una landing sencilla, me ha ayudado a ganar seguridad trabajando con estructura y estilos.
 
